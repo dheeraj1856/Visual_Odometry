@@ -15,8 +15,7 @@ opencv-python
 matplotlib
 pandas
 progressbar2
-
-# Download the KITTI dataset and place it in the dataset/ directory.
+Download the KITTI dataset and place it in the dataset/ directory.
 
 ## Usage
 1. Run the main script to execute the visual odometry pipeline:
